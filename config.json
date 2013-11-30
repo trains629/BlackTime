@@ -1,3 +1,1 @@
-{
-  "Interval" : 1000,"Max" : 1800 , "Min" : -20
-}
+{"Min":10,"Max":1800,"Interval":1000}
