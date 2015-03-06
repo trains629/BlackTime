@@ -2,7 +2,8 @@ program blackTime;
 
 uses
   Forms,
-  main in 'main.pas' {Form3};
+  main in 'main.pas' {Form3},
+  superobject in 'superobject.pas';
 
 {$R *.res}
 
