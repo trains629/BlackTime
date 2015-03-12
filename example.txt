@@ -1,0 +1,8 @@
+class UCMLPopup TUCMLPanel
+Arrows string '' data-arrow t r b l
+Corners boolean true data-corners
+Dismissible boolean true data-dismissible
+History boolean true data-history
+OverlayTheme string '' data-overlay-theme
+PositionTo string 'origin' data-position-to origin window
+Shadow boolean true data-shadow
